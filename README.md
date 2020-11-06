@@ -1,6 +1,6 @@
 ### Numerical_Analysis_BS_KHU
   
-- Selected solution for the textbook (undergraduate school in KHU)
+- Selected solution for numerical analysis textbook (undergraduate school in KHU)
 
 #### Instructor
 - Prof. Sunmi Lee
